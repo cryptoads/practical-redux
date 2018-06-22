@@ -27,5 +27,5 @@ const dogsReducer = (state = dogsDefaultState, action) => {
         return stateCopy;
     }
     return state;
-	return state;
+
 }
